@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manish Agrahari</h1>
 <h3 align="center">Expert WordPress Developer | Elementor Pro | Divi | Speed Optimization </h3>
 
+<p> I'm a passionate and detail-oriented WordPress and Full-Stack Web Developer with over 10 years of experience building high-converting, responsive websites. I specialize in custom WordPress development, speed optimization, bug fixing, and full site builds using Elementor Pro, Divi, Shopify, Webflow, and more.</p>
+🛠️Services Offered
+<ul>
+<li>WordPress Development (Custom Themes, Plugins, WooCommerce)</li>
+<li>Page Builders: Elementor, WPBakery, Divi, Gutenberg</li>
+<li>Responsive Design (HTML5, CSS3, Flexbox, Grid)</li>
+<li>Webflow, SquareSpace, WIX design & CMS integration</li>
+<li>Shopify Development (Custom Themes setup, Customization)</li>
+<li>Speed Optimization (Core Web Vitals, caching, CDN setup)</li>
+<li>SEO Best Practices (Yoast SEO, schema markup, keyword structure)</li>
+<li>Website Migrations & Maintenance</li>
+</ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish27agrahari&label=Profile%20views&color=0e75b6&style=flat" alt="manish27agrahari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish27agrahari" alt="manish27agrahari" /></a> </p>
