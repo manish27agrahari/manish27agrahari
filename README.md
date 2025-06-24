@@ -14,9 +14,9 @@
 <li>Website Migrations & Maintenance</li>
 </ul>
 
-<h4>💼 Why clients choose me:</h4>h4>
-⚡ Efficient & Reliable: On-time delivery, clear communication, transparent pricing.
-💡 Problem Solver: Quick to learn, skilled at resolving bugs, and offering optimized solutions.
+<h4>💼 Why clients choose me:</h4>
+⚡ Efficient & Reliable: On-time delivery, clear communication, transparent pricing.<br/>
+💡 Problem Solver: Quick to learn, skilled at resolving bugs, and offering optimized solutions.<br/>
 🤝 Long-term Partner: I build lasting client relationships and support your growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish27agrahari&label=Profile%20views&color=0e75b6&style=flat" alt="manish27agrahari" /> </p>
