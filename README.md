@@ -2,7 +2,7 @@
 <h3 align="center">Expert WordPress Developer | Elementor Pro | Divi | Speed Optimization </h3>
 
 <p> I'm a passionate and detail-oriented WordPress and Full-Stack Web Developer with over 10 years of experience building high-converting, responsive websites. I specialize in custom WordPress development, speed optimization, bug fixing, and full site builds using Elementor Pro, Divi, Shopify, Webflow, and more.</p>
-🛠️Services Offered
+<h4>🛠️Services Offered</h4>
 <ul>
 <li>WordPress Development (Custom Themes, Plugins, WooCommerce)</li>
 <li>Page Builders: Elementor, WPBakery, Divi, Gutenberg</li>
@@ -13,6 +13,11 @@
 <li>SEO Best Practices (Yoast SEO, schema markup, keyword structure)</li>
 <li>Website Migrations & Maintenance</li>
 </ul>
+
+<h4>💼 Why clients choose me:</h4>h4>
+⚡ Efficient & Reliable: On-time delivery, clear communication, transparent pricing.
+💡 Problem Solver: Quick to learn, skilled at resolving bugs, and offering optimized solutions.
+🤝 Long-term Partner: I build lasting client relationships and support your growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish27agrahari&label=Profile%20views&color=0e75b6&style=flat" alt="manish27agrahari" /> </p>
 
